@@ -1,7 +1,5 @@
 # Hackintosh-MSI-MEG-z490i-UNIFY-OpenCore
 
-MSI MEG Z490i UNIFY
-
 Hardware:
 MSI MEG z490i UNIFY
 Intel i9 10900k
@@ -19,5 +17,7 @@ Keine Intel WLAN / Bluetooth Kexte in der EFI
 Wichtige Info: Der WLAN Modul slot des Mainboards unterstütz nicht jedes beliebige Modul, sondern nur Module mit CNVi . Habe das Intel Modul komplett ausgebaut und die Kabel der Antenne verlängert und zum BCM Modul geführt.
 
 USBmapping file Packet: Mapping for iMac20,1, iMac20,2 and iMacPro1,1
+
 SSDT-MSI_MEG_Z490I_UNIFY.aml (All-in-one SSDT) attached. If this SSDT-MSI_MEG_Z490I_UNIFY.aml SSDT don't work disable it and enable all other SSDT´s !!!
+
 SSDT-MSI_MEG_Z490I_UNIFY.aml created by Hecatomb
