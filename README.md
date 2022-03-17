@@ -9,7 +9,7 @@ Das CNVi Protokoll lässt sich im Bios Deaktivieren / BCM94360NG auf M2 Adapter
 
 
 
-OpenCore 0.7.7
+OpenCore 0.7.9
 Imac20,2 / ImacPro1,1
 Getestet mit Catalina, Big Sur und Monterey
 Keine Intel WLAN / Bluetooth Kexte in der EFI
